@@ -1,0 +1,6 @@
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\COMP123-S2016-Lesson7\COMP123-S2016-Lesson7\bin\Debug\COMP123-S2016-Lesson7.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\COMP123-S2016-Lesson7\COMP123-S2016-Lesson7\bin\Debug\COMP123-S2016-Lesson7.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\COMP123-S2016-Lesson7\COMP123-S2016-Lesson7\bin\Debug\COMP123-S2016-Lesson7.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\COMP123-S2016-Lesson7\COMP123-S2016-Lesson7\obj\Debug\COMP123-S2016-Lesson7.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\COMP123-S2016-Lesson7\COMP123-S2016-Lesson7\obj\Debug\COMP123-S2016-Lesson7.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\COMP123-S2016-Lesson7\COMP123-S2016-Lesson7\obj\Debug\COMP123-S2016-Lesson7.pdb
